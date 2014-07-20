@@ -37,3 +37,4 @@ xiaodong    产品经理，设计师，开发初学者
 Laugher     想学设计的计算机系学生
 torizhao    UX设计在读
 olymax      打酱油的伪设计师和程序员
+Shawn       UI设计师
