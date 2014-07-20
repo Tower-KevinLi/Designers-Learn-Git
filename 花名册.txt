@@ -17,7 +17,7 @@ ziolau      宇航员
 ningning    设计师
 tolyer      鹅厂设计师
 Al-Huang
-Rubot   android开发工程师
+Rubot       android开发工程师
 LumpyLi     产品企划
 mikeyoung   少女之友
 MelissaMin  学僧
@@ -30,10 +30,10 @@ mzhua
 kinness     UI设计爱好者
 GeekTea     设计师梦
 zhengjunwei frontend designer
-longlongdada  画画的
-longlonghaha	敲代码的
+longlongdada  画画的 敲代码的  (帮你合并一下哈)
 crystal     打酱油的
 Koluis      搬运工
 xiaodong    产品经理，设计师，开发初学者
 Laugher     想学设计的计算机系学生
 torizhao    UX设计在读
+olymax      打酱油的伪设计师和程序员
