@@ -36,3 +36,4 @@ crystal     打酱油的
 Koluis      搬运工
 xiaodong    产品经理，设计师，开发初学者
 Laugher     想学设计的计算机系学生
+torizhao    UX设计在读
