@@ -1,4 +1,4 @@
-﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 KevinLi     Tower设计师
 Zxming      小砖厂产品设计师
@@ -50,6 +50,7 @@ leader4     学生 工业设计
 Vince       前端设计
 ZeonWang    玩具设计
 <<<<<<< HEAD
+<<<<<<< HEAD
 Barry233    转行做UI的菜鸟T T
 dreamyworm  设计师●伪
 Audrey-Han  设计师
@@ -80,3 +81,4 @@ zm          设计师
 liupzone    设计师
 alai        路过看看
 wis         开发22
+azjoeliu    rookie
