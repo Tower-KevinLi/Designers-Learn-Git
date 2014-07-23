@@ -98,3 +98,4 @@ KevinNeo    产品经理
 zhenxiforever  学生
 Todd        想玩设计的码农
 Jason.Yu    系统工程师
+shane       猿类
