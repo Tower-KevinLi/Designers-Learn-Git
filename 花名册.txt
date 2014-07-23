@@ -63,6 +63,7 @@ phoebe      UI设计师
 lcyan       WEB设计
 Allison     UI设计
 zhudage     web前端设计师
+<<<<<<< HEAD
 remgoo      我是程序员，hello设计师们
 xiaoDC      想学习前端的后端程序员
 xiao2yah    UE/UX
@@ -99,3 +100,5 @@ zhenxiforever  学生
 Todd        想玩设计的码农
 Jason.Yu    系统工程师
 shane       猿类
+Tony        程序猿
+TryTry      采采
