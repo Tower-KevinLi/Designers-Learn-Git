@@ -45,7 +45,7 @@ zhongerxin  网页设计师  QQ：490456111
 今日立冬　　 　网页、UI设计师
 kingsir     设计师
 wedaren     工业设计
-wzmin        App运营
+wzmin       App运营
 NeilZeng    UX酱油师 （Tower我用过哦，不过收费了就没用了）
 leader4     学生 工业设计
 Vince       前端设计
@@ -57,3 +57,4 @@ Mark        硬件攻城狮正在学习做程序猿
 com         前端
 ajason      UI,UE Designer
 Jurassic    学生
+jack	    卖菜的
