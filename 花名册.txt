@@ -50,6 +50,7 @@ leader4     学生 工业设计
 Vince       前端设计
 ZeonWang    玩具设计
 <<<<<<< HEAD
+<<<<<<< HEAD
 Barry233    转行做UI的菜鸟T T
 dreamyworm  设计师●伪
 Audrey-Han  设计师
@@ -85,3 +86,4 @@ Foxz	    XYZ
 zs0821      想学技术的设计师
 GuanXu      前端
 GuidoVanRossum python’s dad lol
+zerozhp     前端
