@@ -49,6 +49,7 @@ NeilZeng    UX酱油师 （Tower我用过哦，不过收费了就没用了）
 leader4     学生 工业设计
 Vince       前端设计
 ZeonWang    玩具设计
+<<<<<<< HEAD
 Barry233    转行做UI的菜鸟T T
 dreamyworm  设计师●伪
 Audrey-Han  设计师
