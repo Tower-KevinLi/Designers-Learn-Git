@@ -58,3 +58,4 @@ com         前端
 ajason      UI,UE Designer
 Jurassic    学生
 jack	    卖菜的
+sunnist     product desgin；weibo @sunnist-wanyan
