@@ -56,3 +56,4 @@ Audrey-Han  设计师
 Mark        硬件攻城狮正在学习做程序猿
 com         前端
 ajason      UI,UE Designer
+Jurassic    学生
