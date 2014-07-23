@@ -82,3 +82,4 @@ wis         开发22
 azjoeliu    rookie
 Foxz	    XYZ
 zs0821      想学技术的设计师
+GuanXu      前端
