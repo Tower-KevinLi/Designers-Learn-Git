@@ -9,6 +9,7 @@ Rayflavor   设计师
 ziyu        设计师好高端
 GaryTo      想学设计的市场系学生
 Vin Wong    Designer&&Coder
+<<<<<<< HEAD
 jon         设计师
 songenlang  设计师
 Czzhengkw   职业屌丝
@@ -57,3 +58,5 @@ Mark        硬件攻城狮正在学习做程序猿
 com         前端
 ajason      UI,UE Designer
 Jurassic    学生
+=======
+>>>>>>> nevercat-master
