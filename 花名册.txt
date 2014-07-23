@@ -51,6 +51,7 @@ leader4     学生 工业设计
 Vince       前端设计
 ZeonWang    玩具设计
 <<<<<<< HEAD
+<<<<<<< HEAD
 Barry233    转行做UI的菜鸟T T
 dreamyworm  设计师●伪
 Audrey-Han  设计师
@@ -64,3 +65,4 @@ yiqueen     产品设计
 Exion       学生一枚
 phoebe      UI设计师
 lcyan       WEB设计
+Allison     UI设计
