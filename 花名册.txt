@@ -22,7 +22,7 @@ mikeyoung   少女之友
 MelissaMin  学僧
 test        test  (好吧、test哥在test)
 zifeixu85   交互设计师+产品经理，微信公众号：zifeixu
-sayid       设计师
+sayid       设计师   
 justmetyou  PM
 sayid       designer  （sayid同学又玩了一遍？）
 mzhua       
@@ -84,3 +84,4 @@ Foxz	    XYZ
 zs0821      想学技术的设计师
 GuanXu      前端
 GuidoVanRossum python’s dad lol
+momo        刚毕业求职中
