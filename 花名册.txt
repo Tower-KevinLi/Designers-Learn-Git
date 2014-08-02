@@ -121,4 +121,5 @@ luxious     什么都不做的程序猿。
 shandinan   前端设计&.net 开发
 nicezhou    产品经理
 Jiyan Guo   software developer
+zhujia798   狼厂产品经理，微信zhujia798
 
