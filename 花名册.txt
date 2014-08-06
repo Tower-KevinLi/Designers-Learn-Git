@@ -1,4 +1,4 @@
-请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 KevinLi     Tower设计师
 Zxming      小砖厂产品设计师
@@ -121,4 +121,4 @@ luxious     什么都不做的程序猿。
 shandinan   前端设计&.net 开发
 nicezhou    产品经理
 Jiyan Guo   software developer
-LuxuryD     幻想成为编程大牛的学生
+LuxuryD     幻想成为编程大牛的学生，客户端打
