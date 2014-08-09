@@ -145,3 +145,5 @@ ahjdzx1990  伟大的猿人
 botao1      交互设计师
 5star       设计师&前端工程师
 weblol      前端设计
+shandinan   前端设计&.net 开发
+ericliu     java programmer
