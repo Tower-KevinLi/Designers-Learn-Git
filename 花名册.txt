@@ -158,4 +158,5 @@ twinkle     	大数据
 zhujia798	狼厂产品经理，微信zhujia798
 Key	        学生路过
 0x30        	想做一名优秀的软件设计师
-icojump    	 产品设计师(icojump.in)
+icojump    	产品设计师(icojump.in)
+Kim Du   	UX designer
