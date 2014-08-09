@@ -117,6 +117,7 @@ jshawcx		什么都做的程序猿
 denyee    	设计师222
 uoft	    
 <<<<<<< HEAD
+<<<<<<< HEAD
 Kongnuan	学生一枚
 Kongnuan	菜鸟一颗
 luxious		什么都不做的程序猿。
@@ -166,3 +167,4 @@ K    	        交互设计师
 Tony Wang   	Student
 limiwu		视觉设计
 LuxuryD     	幻想成为编程大牛的学生，客户端打
+zmwybxzy	前端
