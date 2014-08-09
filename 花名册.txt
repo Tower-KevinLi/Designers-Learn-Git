@@ -21,7 +21,7 @@ mikeyoung   少女之友
 MelissaMin  学僧
 test        test  (好吧、test哥在test)
 zifeixu85   交互设计师+产品经理，微信公众号：zifeixu
-sayid       设计师
+sayid       设计师   
 justmetyou  PM
 sayid       designer  （sayid同学又玩了一遍？）
 mzhua       
@@ -48,7 +48,6 @@ NeilZeng    UX酱油师 （Tower我用过哦，不过收费了就没用了）
 leader4     学生 工业设计
 Vince       前端设计
 ZeonWang    玩具设计
-<<<<<<< HEAD
 Barry233    转行做UI的菜鸟T T
 dreamyworm  设计师●伪
 Audrey-Han  设计师
@@ -128,3 +127,4 @@ yajun       测试工程师
 btpig       交互设计师+学开发
 Pbook       建筑设计师
 lzxlk2      售前工程师
+momo        刚毕业求职中
