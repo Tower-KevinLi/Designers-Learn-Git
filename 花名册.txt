@@ -124,3 +124,4 @@ nicezhou    产品经理
 Jiyan Guo   software developer
 chenxi      学生
 wallop      程序员一枚
+yajun       测试工程师
