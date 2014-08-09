@@ -1,6 +1,5 @@
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
-pigtruman   Web Designer
 KevinLi     Tower设计师
 Zxming      小砖厂产品设计师
 sdaf        设计狮
@@ -123,6 +122,7 @@ luxious     什么都不做的程序猿。
 shandinan   前端设计&.net 开发
 nicezhou    产品经理
 Jiyan Guo   software developer
+<<<<<<< HEAD
 chenxi      学生
 wallop      程序员一枚
 yajun       测试工程师
@@ -150,4 +150,6 @@ shandinan   前端设计&.net 开发
 ericliu     java programmer
 dachuan     专业抱小孩的
 ale233      美工
+pigtruman   Web Designer
 Will Shi    NOT A C++ PROGRAMER
+Owen        程序
