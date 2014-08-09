@@ -160,3 +160,4 @@ Key	        学生路过
 0x30        	想做一名优秀的软件设计师
 icojump    	产品设计师(icojump.in)
 Kim Du   	UX designer
+InSb		摸石头过河的学生
