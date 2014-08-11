@@ -116,11 +116,6 @@ robin		计算机技术
 jshawcx		什么都做的程序猿
 denyee    	设计师222
 uoft	    
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Kongnuan	学生一枚
 Kongnuan	菜鸟一颗
 luxious		什么都不做的程序猿。
@@ -174,4 +169,5 @@ zmwybxzy	前端
 Checky		咖啡shi linkedin:yogastar
 jieqinghua  	工业设计
 opqrst 		opqrst@163.com（java (0_0) 修改了）
-nixiaoyang    在职软件工程硕士
+nixiaoyang    	在职软件工程硕士
+taoxiaobin  	一步一个脚印
