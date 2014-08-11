@@ -176,4 +176,5 @@ leichunfeng     iOS攻城狮(GitHub客户端)
 bruce9237     	前端开发设计+学设计
 Dream929—TSH    学生党一枚
 zhubing2014     想成为优秀设计师的程序员
-xianglong11     一个小学生
+xianglong11     一个小
+jia             我在测试本地协作
