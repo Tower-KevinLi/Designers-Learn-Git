@@ -171,3 +171,5 @@ jieqinghua  	工业设计
 opqrst 		opqrst@163.com（java (0_0) 修改了）
 nixiaoyang    	在职软件工程硕士
 taoxiaobin  	一步一个脚印
+leichunfeng     iOS攻城狮
+leichunfeng     iOS攻城狮(GitHub客户端)
