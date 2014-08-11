@@ -1,4 +1,4 @@
-请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 KevinLi         Tower设计师
 Zxming          小砖厂产品设计师
@@ -175,3 +175,4 @@ leichunfeng     iOS攻城狮
 leichunfeng     iOS攻城狮(GitHub客户端)
 bruce9237     	前端开发设计+学设计
 Dream929—TSH    学生党一枚
+zhubing2014     想成为优秀设计师的程序员
