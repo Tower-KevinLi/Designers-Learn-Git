@@ -1,4 +1,4 @@
-请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 KevinLi         Tower设计师
 Zxming          小砖厂产品设计师
@@ -180,3 +180,4 @@ xianglong11     一个小
 jia             我在测试本地协作
 joueu           想搞IOS开发的小学生
 hexin           php
+hexin		本地
