@@ -182,3 +182,4 @@ joueu           想搞IOS开发的小学生
 hexin           php
 hexin		本地
 yellowgun       设计师
+gemmag          各种射鸡师
