@@ -182,7 +182,6 @@ joueu           想搞IOS开发的小学生
 hexin           php
 hexin		本地
 yellowgun       设计师
-<<<<<<< HEAD
 chingyao        web developer
 zackma          Coding......
 vilenice        大神不解释
@@ -196,3 +195,4 @@ anchundan       鹌鹑蛋蛋
 gemmag          各种射鸡师
 Elvin Zheng     小红书UI设计师
 happysha        程序员&设计师
+henriPANG       工业设计小学在读
