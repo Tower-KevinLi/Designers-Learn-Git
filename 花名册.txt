@@ -185,3 +185,4 @@ yellowgun       设计师
 chingyao        web developer
 zackma          Coding......
 vilenice        大神不解释
+vin             前端
