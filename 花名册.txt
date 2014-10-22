@@ -228,3 +228,4 @@ CHAAAA          学生
 starttst        frontend ui designer
 Richor          designer 0.0
 lzx1022         0.0asdfsa
+parsonh         UI Designer..
