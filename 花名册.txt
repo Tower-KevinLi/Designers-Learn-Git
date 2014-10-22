@@ -1,4 +1,4 @@
-请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 KevinLi         Tower设计师
 Zxming          小砖厂产品设计师
@@ -213,6 +213,7 @@ xmzok012        渣硕
 Michael Xiao    嵌入式爱好者
 jessie          content producer凑热闹
 lzx1022         0.0
+<<<<<<< HEAD
 sd              自由程序员
 Artyom84        运维工程师
 Max             F2E
@@ -228,3 +229,6 @@ CHAAAA          学生
 starttst        frontend ui designer
 Richor          designer 0.0
 lzx1022         0.0asdfsa
+=======
+parsonh         UI Designer..
+>>>>>>> dde6c26c0333d0997b6d80c0970afe0d8fea5e4b
