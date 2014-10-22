@@ -243,3 +243,4 @@ explosic4  什么都不会,2333
 shren           平面爱好者
 manglekuo       留學生
 manglekuo		留學生 //from clone
+小明            同学
