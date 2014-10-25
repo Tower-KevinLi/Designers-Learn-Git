@@ -2,7 +2,7 @@
 
 KevinLi         Tower设计师
 Zxming          小砖厂产品设计师
-sdaf            设计狮
+sdaf            设计师
 Funpee	        设计师
 Rayflavor       设计师
 ziyu            设计师好高端
@@ -19,7 +19,7 @@ Rubot           android开发工程师
 LumpyLi         产品企划
 mikeyoung       少女之友
 MelissaMin      学僧
-test            test  (好吧、test哥在test)
+test            test
 zifeixu85       交互设计师+产品经理，微信公众号：zifeixu
 sayid           设计师
 justmetyou      PM
