@@ -253,5 +253,6 @@ WoeOm           ~web   er
 cooc            ceo
 isbadman        程先生
 sallay          码工一枚
-yanhao        产品经理... yanhaomail@foxmail.com
-angelzou      学生一枚
+yanhao        	产品经理... yanhaomail@foxmail.com
+angelzou      	学生一枚
+kainever        大牛和菜鸟
