@@ -1,4 +1,4 @@
-请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
 Zxming          小砖厂产品设计师
@@ -261,4 +261,4 @@ bollen_Chak	本地修改，我和楼上是同一个人，已解决conflict
 sufei           小菜一碟
 ns              学生
 Grace           留学生
-Tadayima        有强迫症的码农
+Tadayima        有强迫症的码农++
