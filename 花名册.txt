@@ -262,3 +262,4 @@ sufei           小菜一碟
 ns              学生
 Grace           留学生
 Yu              学习学习
+ls		本地
