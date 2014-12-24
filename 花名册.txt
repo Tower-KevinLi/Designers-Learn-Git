@@ -1,4 +1,4 @@
-﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
 Zxming          小砖厂产品设计师
@@ -216,7 +216,7 @@ lzx1022         0.0
 sd              自由程序员
 Artyom84        运维工程师
 Max             F2E
-Mr.Cheng        卖烧饼的大叔
+Mr.Cheng       卖烧饼的大叔
 Ctrl-Xing       嵌入式渣渣开发者 + local change
 Alpha		Front-end Developer
 yuanchao        php工程师
@@ -239,7 +239,7 @@ Alice           学生-retry
 Rayston92       产品经理
 xczswt1993      想要學習網站開發的入門者
 zewait          无业流民
-explosic4       什么都不会,2333
+explosic4  什么都不会,2333
 shren           平面爱好者
 manglekuo       留學生
 manglekuo		留學生 //from clone
