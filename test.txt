@@ -1,5 +1,4 @@
-aaa
-ppp
+aaapppbbb
 a.txt
 bbb
 test
