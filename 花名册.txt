@@ -289,6 +289,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -357,3 +358,6 @@ Sherry          交互设计师
 =======
 felixzhou       开始学编程的产品人+设计，立志全栈
 >>>>>>> 8bbc63ed73bbaa67728924cd7390adc5bb4eea32
+=======
+Leon            新入代码学生
+>>>>>>> 2403815f51a79917fe3e9849e530844e718647d8
