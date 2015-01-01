@@ -294,6 +294,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -377,3 +378,6 @@ jiyuanjiyuan    设计师
 =======
 kinggreenhall   码农
 >>>>>>> ca4016b7976b0b9296de831007c5121cbb83f899
+=======
+ning            学习一哈
+>>>>>>> 2188795afa62cc2f6b70d7baaee5230f298386ef
