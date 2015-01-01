@@ -264,6 +264,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -275,3 +276,7 @@ kiddy           ui
 =======
 Tong Shen       初学者
 >>>>>>> c94ed4e3d69873d40aa3ced814a2b262577ccfe2
+=======
+guo             你先生
+you             有先生
+>>>>>>> b68a3518a2ec0c983d2fe9b436e20042003597ff
