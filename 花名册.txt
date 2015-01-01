@@ -275,6 +275,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -319,3 +320,6 @@ yht8250466      研究一下
 =======
 CNClaus         结构攻城狮
 >>>>>>> 0ad604c20fe0603a8d3500bdc8d171b85174f8c4
+=======
+AnndyBear       转交互的视觉设计师
+>>>>>>> e53d32872e38db21ebdf690e0cb5e1ea7424c71e
