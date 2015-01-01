@@ -265,6 +265,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -280,3 +281,7 @@ Tong Shen       初学者
 guo             你先生
 you             有先生
 >>>>>>> b68a3518a2ec0c983d2fe9b436e20042003597ff
+=======
+kendydeng       强奸犯
+kendydeng       纵火犯
+>>>>>>> 3f73ce8fafe18bee48dd94470765a0fa514f7755
