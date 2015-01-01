@@ -292,6 +292,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -369,3 +370,6 @@ ilbcj           全栈工程师
 =======
 zhou            程序猿
 >>>>>>> da88dab08fca6e5c12e72e8f4a4ab604051cfa5f
+=======
+jiyuanjiyuan    设计师
+>>>>>>> 0f740c4e61844cbe28ce7fb07d7304d8ce5dab5b
