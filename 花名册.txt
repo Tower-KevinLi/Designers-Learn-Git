@@ -269,6 +269,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -298,3 +299,6 @@ xiao            初学者
 Yu              学习学习
 ls		本地
 >>>>>>> 2bc1dbba734e0b7ca75d5e1655d39ac62e71e36c
+=======
+Jeason          吃货-胖子
+>>>>>>> 0bb9c6012fe1ea43f906808aadb3708b870a9352
