@@ -277,6 +277,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -327,3 +328,6 @@ AnndyBear       转交互的视觉设计师
 =======
 camac           just a person,plz @.
 >>>>>>> 6e4d58c6cdccc4c4314ede37ef6c8efb0b4b5482
+=======
+zhyc            前端菜鸟
+>>>>>>> af668a09bdd2c9a8ef1be4eda8203d135f7082c9
