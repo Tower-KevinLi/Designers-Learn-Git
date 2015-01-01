@@ -295,6 +295,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -381,3 +382,6 @@ kinggreenhall   码农
 =======
 ning            学习一哈
 >>>>>>> 2188795afa62cc2f6b70d7baaee5230f298386ef
+=======
+Ianguo          处女座强迫症
+>>>>>>> d8563603f03761232e11c7a479323a657f87f86f
