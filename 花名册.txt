@@ -1,4 +1,4 @@
-请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
 Zxming          小砖厂产品设计师
@@ -266,6 +266,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -285,3 +286,6 @@ you             有先生
 kendydeng       强奸犯
 kendydeng       纵火犯
 >>>>>>> 3f73ce8fafe18bee48dd94470765a0fa514f7755
+=======
+Tadayima        有强迫症的码农++
+>>>>>>> ff0c4a9fdde89fafabb0563be1764ea4a9dabe0c
