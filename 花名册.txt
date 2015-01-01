@@ -261,5 +261,9 @@ bollen_Chak	本地修改，我和楼上是同一个人，已解决conflict
 sufei           小菜一碟
 ns              学生
 Grace           留学生
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
+=======
+Bin             Umich
+>>>>>>> 5d757edb23296a8ffe90e23c6ac1097e651d12bf
