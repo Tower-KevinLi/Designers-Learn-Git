@@ -262,8 +262,12 @@ sufei           小菜一碟
 ns              学生
 Grace           留学生
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
 Bin             Umich
 >>>>>>> 5d757edb23296a8ffe90e23c6ac1097e651d12bf
+=======
+kiddy           ui
+>>>>>>> fc90b1d7a5c40b5bf62a9c0a757340ad8bbe95e3
