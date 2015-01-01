@@ -287,6 +287,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -349,3 +350,6 @@ ruihan-rey      设计师
 =======
 PuRonglong     前端工程师
 >>>>>>> f76eb8cb7bb6632d905970e1cebff491fdedf329
+=======
+Sherry          交互设计师
+>>>>>>> 93e1dc38a199f5a3094f1529f565ddf76635693e
