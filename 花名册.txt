@@ -286,6 +286,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -345,3 +346,6 @@ hydrowing       老透明 =ω=
 =======
 ruihan-rey      设计师
 >>>>>>> a02b9e79f8394936c828b4e3545e9ea661bc1e2e
+=======
+PuRonglong     前端工程师
+>>>>>>> f76eb8cb7bb6632d905970e1cebff491fdedf329
