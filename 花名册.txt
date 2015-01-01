@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 ﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
-liyi                 学生
-=======
-请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
-DoneHome        student
->>>>>>> 93475b9ea9942096ae411ffa78f6b47369a0641b
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
 Zxming          小砖厂产品设计师
 sdaf            设计师
@@ -268,120 +262,39 @@ bollen_Chak	本地修改，我和楼上是同一个人，已解决conflict
 sufei           小菜一碟
 ns              学生
 Grace           留学生
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
-=======
 Bin             Umich
->>>>>>> 5d757edb23296a8ffe90e23c6ac1097e651d12bf
-=======
 kiddy           ui
->>>>>>> fc90b1d7a5c40b5bf62a9c0a757340ad8bbe95e3
-=======
 Tong Shen       初学者
->>>>>>> c94ed4e3d69873d40aa3ced814a2b262577ccfe2
-=======
 guo             你先生
 you             有先生
->>>>>>> b68a3518a2ec0c983d2fe9b436e20042003597ff
-=======
 kendydeng       强奸犯
 kendydeng       纵火犯
->>>>>>> 3f73ce8fafe18bee48dd94470765a0fa514f7755
-=======
 Tadayima        有强迫症的码农++
->>>>>>> ff0c4a9fdde89fafabb0563be1764ea4a9dabe0c
-=======
 xiao            初学者
->>>>>>> 36f870eb95ba03cabcc4ee6615424258d27986de
-=======
 Yu              学习学习
 ls		本地
->>>>>>> 2bc1dbba734e0b7ca75d5e1655d39ac62e71e36c
-=======
 Jeason          吃货-胖子
->>>>>>> 0bb9c6012fe1ea43f906808aadb3708b870a9352
-=======
 dean            设计师
->>>>>>> 5629ef7a97de5f74c2dfb6f1d1843b46bb81fd08
-=======
 luck            未来的领军人物
->>>>>>> 790224dd62997e231819fb02918a9bb9cfd03440
-=======
 yht8250466      研究一下
->>>>>>> 85869d2cfe9a3e3eca20dcde55134bbc1ae55000
-=======
 CNClaus         结构攻城狮
->>>>>>> 0ad604c20fe0603a8d3500bdc8d171b85174f8c4
-=======
 AnndyBear       转交互的视觉设计师
->>>>>>> e53d32872e38db21ebdf690e0cb5e1ea7424c71e
-=======
 camac           just a person,plz @.
->>>>>>> 6e4d58c6cdccc4c4314ede37ef6c8efb0b4b5482
-=======
 zhyc            前端菜鸟
->>>>>>> af668a09bdd2c9a8ef1be4eda8203d135f7082c9
-=======
 hydrowing       老透明 =ω=
->>>>>>> 647322ad10e3c48070535899e3fdc4fa57fd5a3c
-=======
 ruihan-rey      设计师
->>>>>>> a02b9e79f8394936c828b4e3545e9ea661bc1e2e
-=======
 PuRonglong     前端工程师
->>>>>>> f76eb8cb7bb6632d905970e1cebff491fdedf329
-=======
 Sherry          交互设计师
->>>>>>> 93e1dc38a199f5a3094f1529f565ddf76635693e
-=======
 felixzhou       开始学编程的产品人+设计，立志全栈
->>>>>>> 8bbc63ed73bbaa67728924cd7390adc5bb4eea32
-=======
 Leon            新入代码学生
->>>>>>> 2403815f51a79917fe3e9849e530844e718647d8
-=======
 ilbcj           全栈工程师
->>>>>>> 736f7f29871a48a9c1e38511c03223e9b45b8523
-=======
 zhou            程序猿
->>>>>>> da88dab08fca6e5c12e72e8f4a4ab604051cfa5f
-=======
 jiyuanjiyuan    设计师
->>>>>>> 0f740c4e61844cbe28ce7fb07d7304d8ce5dab5b
-=======
 kinggreenhall   码农
->>>>>>> ca4016b7976b0b9296de831007c5121cbb83f899
-=======
 ning            学习一哈
->>>>>>> 2188795afa62cc2f6b70d7baaee5230f298386ef
-=======
 Ianguo          处女座强迫症
->>>>>>> d8563603f03761232e11c7a479323a657f87f86f
+Frank           设计师
+liyi            学生
+DoneHome        student
