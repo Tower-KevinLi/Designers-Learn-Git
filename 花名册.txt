@@ -272,6 +272,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -310,3 +311,6 @@ dean            设计师
 =======
 luck            未来的领军人物
 >>>>>>> 790224dd62997e231819fb02918a9bb9cfd03440
+=======
+yht8250466      研究一下
+>>>>>>> 85869d2cfe9a3e3eca20dcde55134bbc1ae55000
