@@ -271,6 +271,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -306,3 +307,6 @@ Jeason          吃货-胖子
 =======
 dean            设计师
 >>>>>>> 5629ef7a97de5f74c2dfb6f1d1843b46bb81fd08
+=======
+luck            未来的领军人物
+>>>>>>> 790224dd62997e231819fb02918a9bb9cfd03440
