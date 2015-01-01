@@ -270,6 +270,7 @@ Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -302,3 +303,6 @@ ls		本地
 =======
 Jeason          吃货-胖子
 >>>>>>> 0bb9c6012fe1ea43f906808aadb3708b870a9352
+=======
+dean            设计师
+>>>>>>> 5629ef7a97de5f74c2dfb6f1d1843b46bb81fd08
