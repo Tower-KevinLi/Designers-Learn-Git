@@ -263,6 +263,7 @@ ns              学生
 Grace           留学生
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 =======
@@ -271,3 +272,6 @@ Bin             Umich
 =======
 kiddy           ui
 >>>>>>> fc90b1d7a5c40b5bf62a9c0a757340ad8bbe95e3
+=======
+Tong Shen       初学者
+>>>>>>> c94ed4e3d69873d40aa3ced814a2b262577ccfe2
