@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
-=======
-﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
-﻿
->>>>>>> e824d3be97f7019cc3f0bec8b35d35ad84209bdf
 
+chessman01      菜鸟
 qqxufo          111111111
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
 Zxming          小砖厂产品设计师
@@ -309,6 +305,4 @@ zzz             产品经理
 kjdh            抠脚大汉
 Justin          student
 terrel          solution marketing
-=======
 waleson         abc-test
->>>>>>> 65ea3edcb5cf9c3f4a9961c34c82b9e1bb55df42
