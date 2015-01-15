@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 =======
 ﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
@@ -312,4 +312,5 @@ terrel          solution marketing
 =======
 waleson         abc-test
 sam             loser from 山东
+ming
 >>>>>>> 65ea3edcb5cf9c3f4a9961c34c82b9e1bb55df42
