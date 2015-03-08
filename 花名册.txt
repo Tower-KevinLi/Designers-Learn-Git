@@ -399,6 +399,7 @@ cool            摸一摸code
 waleson         abc-test
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tadayima        有强迫症的码农++
 xiao            初学者
 =======
@@ -408,6 +409,9 @@ ming
 sean            喜欢深海的鱼
 anna            kick off
 >>>>>>> 0d282141fbb7664de3f8981741314e64778050b5
+=======
+Roy             CAN
+>>>>>>> 2fe04291ef6ae5c59a88299eafb91dfcc8cf83c9
 >>>>>>> 65ea3edcb5cf9c3f4a9961c34c82b9e1bb55df42
 <<<<<<< HEAD
 >>>>>>> bed950f413174f7d2dcb26ad03b0ff7c5a80de2e
