@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+﻿<<<<<<< HEAD
+>>>>>>> bed950f413174f7d2dcb26ad03b0ff7c5a80de2e
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
@@ -322,5 +326,11 @@ wood            产品设计
 wudkj           未毕业程序猿一只
 3licheung       工作人員
 waleson         abc-test
+<<<<<<< HEAD
 Tadayima        有强迫症的码农++
 xiao            初学者
+=======
+sam             loser from 山东
+ming
+>>>>>>> 65ea3edcb5cf9c3f4a9961c34c82b9e1bb55df42
+>>>>>>> bed950f413174f7d2dcb26ad03b0ff7c5a80de2e
