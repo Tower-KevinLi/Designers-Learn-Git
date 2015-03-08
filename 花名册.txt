@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
-=======
-﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
-﻿
->>>>>>> e824d3be97f7019cc3f0bec8b35d35ad84209bdf
 
-qqxufo          111111111
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
 Zxming          小砖厂产品设计师
 sdaf            设计师
@@ -268,6 +262,7 @@ bollen_Chak	本地修改，我和楼上是同一个人，已解决conflict
 sufei           小菜一碟
 ns              学生
 Grace           留学生
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 Bin             Umich
@@ -307,6 +302,6 @@ DoneHome        student
 Wclouds         宅男
 zzz             产品经理
 kjdh            抠脚大汉
-=======
+qqxufo          111111111
 waleson         abc-test
->>>>>>> 65ea3edcb5cf9c3f4a9961c34c82b9e1bb55df42
+Tadayima        有强迫症的码农++
