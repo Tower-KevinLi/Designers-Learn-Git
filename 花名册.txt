@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 ﻿<<<<<<< HEAD
 >>>>>>> bed950f413174f7d2dcb26ad03b0ff7c5a80de2e
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
@@ -9,6 +10,13 @@
 =======
 qqxufo          1111111111
 >>>>>>> 8becc26ded781e13ee83b94ee6617f2f0ae736f8
+=======
+﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+﻿
+>>>>>>> e824d3be97f7019cc3f0bec8b35d35ad84209bdf
+nsynet          师计设
+qqxufo          111111111
+>>>>>>> 189fe3ad138b61196f115fac32b168b0153f0cad
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
 Zxming          小砖厂产品设计师
 sdaf            设计师
