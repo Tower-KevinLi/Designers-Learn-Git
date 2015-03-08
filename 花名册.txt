@@ -1,32 +1,11 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-﻿<<<<<<< HEAD
->>>>>>> bed950f413174f7d2dcb26ad03b0ff7c5a80de2e
-=======
-﻿<<<<<<< HEAD
->>>>>>> 3583e1b36d698b25f5c73cc2fce6997da16638e1
+
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-qqxufo          1111111111
->>>>>>> 8becc26ded781e13ee83b94ee6617f2f0ae736f8
-=======
-﻿请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 ﻿
->>>>>>> e824d3be97f7019cc3f0bec8b35d35ad84209bdf
-<<<<<<< HEAD
-nsynet          师计设
-=======
-
-zhangbohun      叫我序员就就好了
->>>>>>> 9c93397f188f1c7ff6011b0a8a3705012f0149ca
-qqxufo          111111111
->>>>>>> 189fe3ad138b61196f115fac32b168b0153f0cad
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
+niuniu          学生
+nsynet          师计设
+qqxufo          1111111111
+niu		学生
 Zxming          小砖厂产品设计师
 sdaf            设计师
 Funpee	        设计师
@@ -348,104 +327,32 @@ kjdh            抠脚大汉
 qqxufo          111111111
 Justin          student
 terrel          solution marketing
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+zhangbohun      叫我序员就就好了
 wood            产品设计
 wudkj           未毕业程序猿一只
 3licheung       工作人員
-=======
 wrongdoor       FrontEnd
->>>>>>> 0ffcc6393f0971b5af13fd9bd685b19c0bd9e547
-=======
 cansee          端端
->>>>>>> 2bfde5860a8c7a11bd2854273b8440025749f1e2
-=======
 coli4307        学僧
->>>>>>> 6d6d7390dbf2efe932055bef137e3c85ecc14c50
-=======
 yubo            即将毕业的设计师/画师，尝试搭建个人网站ing
->>>>>>> c3bd483be0dcc92967fe5ba1c1ad595b76f1e79c
-=======
 TeddyChou       又一枚处女座
->>>>>>> 7b762d32a25fca1f54a30ebbc6bde727e74baa7f
-=======
 zhq0328         UI设计
->>>>>>> 2b818dbd0f370810db2fdd5267ac63c189043ae1
-=======
 wu0             新生代
->>>>>>> 323f8c17c5aa6b3ec39a66f79a951fa0786d1a87
-=======
 HahahaVector    新手_客户端
->>>>>>> d98fbdaa03dee30e242a857b2cb29bf27b52a122
-=======
 Tony            PM初学
->>>>>>> dfc9aae8557fdaa7f20df33f9dee4b3769c15678
-=======
 kalechao        交互设计师
->>>>>>> af2d4d0b2dc1657f4f34aca16c9596c56a42b6a7
-=======
 cool            摸一摸code
-=======
->>>>>>> 5f241a03253acb0fc999a51b24ee492bc9047484
 waleson         abc-test
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Tadayima        有强迫症的码农++
 xiao            初学者
-=======
 sam             loser from 山东
 ming
-=======
 sean            喜欢深海的鱼
 anna            kick off
->>>>>>> 0d282141fbb7664de3f8981741314e64778050b5
-=======
 Roy             CAN
->>>>>>> 2fe04291ef6ae5c59a88299eafb91dfcc8cf83c9
->>>>>>> 65ea3edcb5cf9c3f4a9961c34c82b9e1bb55df42
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> bed950f413174f7d2dcb26ad03b0ff7c5a80de2e
-=======
-subvertion        什么都懂点什么都不精通的在校码农
->>>>>>> 8c2b2f8c24d246708fbd28cf37d7dd029e9a1dc9
-=======
-KevinLi     Tower设计师
-Zxming      小砖厂产品设计师
-sdaf        设计狮
-Funpee	    设计师
-Rayflavor   设计师
-KevinLi     Tower设计师
-Zxming      小砖厂产品设计师
-sdaf        设计狮
-Funpee	    设计师
-Rayflavor   设计师
-KevinLi     Tower设计师
-Zxming      小砖厂产品设计师
-sdaf        设计狮
-Funpee	    设计师
-Rayflavor   设计师
-ihtml5      前端工程师
->>>>>>> 5aec9c56937e568f0e6675b2a6852c134f0443ee
-=======
+subvertion      什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
->>>>>>> 13dc4217d01b53f090cd7bd0a4916b273911ff98
-=======
 rimiHS          程序员
 rimiXK		程序员
 tony            学生
->>>>>>> a1f914afbe298c730a3fe87ca8ea8e879aec1633
-=======
 RossLing        hello,everyone!
->>>>>>> ed7f0da72d84fd525286eebaff8acb1b84d13b50
