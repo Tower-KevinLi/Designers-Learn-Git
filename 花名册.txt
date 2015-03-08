@@ -340,12 +340,16 @@ terrel          solution marketing
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 wood            产品设计
 wudkj           未毕业程序猿一只
 3licheung       工作人員
 =======
 wrongdoor       FrontEnd
 >>>>>>> 0ffcc6393f0971b5af13fd9bd685b19c0bd9e547
+=======
+cansee          端端
+>>>>>>> 2bfde5860a8c7a11bd2854273b8440025749f1e2
 =======
 kalechao        交互设计师
 >>>>>>> af2d4d0b2dc1657f4f34aca16c9596c56a42b6a7
