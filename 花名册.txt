@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 ﻿<<<<<<< HEAD
 >>>>>>> bed950f413174f7d2dcb26ad03b0ff7c5a80de2e
+=======
+﻿<<<<<<< HEAD
+>>>>>>> 3583e1b36d698b25f5c73cc2fce6997da16638e1
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 <<<<<<< HEAD
@@ -26,6 +30,8 @@ KevinLi         Tower设计师  微博： @李凯文-KevinLi
 Zxming          小砖厂产品设计师
 sdaf            设计师
 Funpee	        设计师
+shihong         攻城狮就是我
+shi             设计师
 Rayflavor       设计师
 ziyu            设计师好高端
 GaryTo          想学设计的市场系学生
