@@ -5,6 +5,7 @@
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 qqxufo          1111111111
 >>>>>>> 8becc26ded781e13ee83b94ee6617f2f0ae736f8
@@ -342,3 +343,21 @@ ming
 =======
 subvertion        什么都懂点什么都不精通的在校码农
 >>>>>>> 8c2b2f8c24d246708fbd28cf37d7dd029e9a1dc9
+=======
+KevinLi     Tower设计师
+Zxming      小砖厂产品设计师
+sdaf        设计狮
+Funpee	    设计师
+Rayflavor   设计师
+KevinLi     Tower设计师
+Zxming      小砖厂产品设计师
+sdaf        设计狮
+Funpee	    设计师
+Rayflavor   设计师
+KevinLi     Tower设计师
+Zxming      小砖厂产品设计师
+sdaf        设计狮
+Funpee	    设计师
+Rayflavor   设计师
+ihtml5      前端工程师
+>>>>>>> 5aec9c56937e568f0e6675b2a6852c134f0443ee
