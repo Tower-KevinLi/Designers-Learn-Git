@@ -344,6 +344,7 @@ terrel          solution marketing
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 wood            产品设计
 wudkj           未毕业程序猿一只
 3licheung       工作人員
@@ -356,6 +357,9 @@ cansee          端端
 =======
 coli4307        学僧
 >>>>>>> 6d6d7390dbf2efe932055bef137e3c85ecc14c50
+=======
+yubo            即将毕业的设计师/画师，尝试搭建个人网站ing
+>>>>>>> c3bd483be0dcc92967fe5ba1c1ad595b76f1e79c
 =======
 TeddyChou       又一枚处女座
 >>>>>>> 7b762d32a25fca1f54a30ebbc6bde727e74baa7f
