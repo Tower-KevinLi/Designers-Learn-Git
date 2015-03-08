@@ -405,6 +405,7 @@ sean            喜欢深海的鱼
 anna            kick off
 >>>>>>> 0d282141fbb7664de3f8981741314e64778050b5
 >>>>>>> 65ea3edcb5cf9c3f4a9961c34c82b9e1bb55df42
+<<<<<<< HEAD
 >>>>>>> bed950f413174f7d2dcb26ad03b0ff7c5a80de2e
 =======
 subvertion        什么都懂点什么都不精通的在校码农
@@ -427,3 +428,6 @@ Funpee	    设计师
 Rayflavor   设计师
 ihtml5      前端工程师
 >>>>>>> 5aec9c56937e568f0e6675b2a6852c134f0443ee
+=======
+GZIvan          搬砖的
+>>>>>>> 13dc4217d01b53f090cd7bd0a4916b273911ff98
