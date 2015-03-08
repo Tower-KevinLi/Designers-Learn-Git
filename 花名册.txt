@@ -358,6 +358,7 @@ terrel          solution marketing
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 wood            产品设计
 wudkj           未毕业程序猿一只
 3licheung       工作人員
@@ -382,6 +383,9 @@ zhq0328         UI设计
 =======
 wu0             新生代
 >>>>>>> 323f8c17c5aa6b3ec39a66f79a951fa0786d1a87
+=======
+HahahaVector    新手_客户端
+>>>>>>> d98fbdaa03dee30e242a857b2cb29bf27b52a122
 =======
 Tony            PM初学
 >>>>>>> dfc9aae8557fdaa7f20df33f9dee4b3769c15678
