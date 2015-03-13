@@ -342,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+jimmyDuang     不知道客户端软件是先按commit按钮还是先按右上角的sysn按钮。30岁的程序员，公司用git,我不想用命令行，但是我用github客户端管理软件的时候经常出问题，会把我写的代码变更部分全没了，所以从重学怎么用客户端软件吧。
