@@ -51,4 +51,3 @@ leader4     学生 工业设计
 Vince       前端设计
 ZeonWang    玩具设计
 Kevin.Tong  软件开发
-tm	    前端
