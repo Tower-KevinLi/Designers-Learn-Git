@@ -1,4 +1,4 @@
-﻿
+
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 ﻿
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
@@ -11,37 +11,23 @@ sdaf            设计师
 东多少          程序
 Funpee	        设计师
 shihong         攻城狮就是我
-XYZX
-XX
+shi             设计师
 Rayflavor       设计师
+ziyu            设计师好高端
 GaryTo          想学设计的市场系学生
 Vin Wong        Designer&&Coder
-asdsdasd
-
-
-??
-Czz
-
-
-
-asdas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ziol:au          宇航员
+jon             设计师
+songenlang      设计师
+Czzhengkw       职业屌丝
+Keer            IT工程师
+ziolau          宇航员
+ningning        设计师
+tolyer          鹅厂设计师
+Rubot           android开发工程师
+LumpyLi         产品企划
+mikeyoung       少女之友
+MelissaMin      学僧
+程序猿旺旺        码农
 test            test
 qqtang          UIdesign
 zifeixu85       交互设计师+产品经理，微信公众号：zifeixu
