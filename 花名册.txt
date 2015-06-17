@@ -270,7 +270,7 @@ bollen_Chak	本地修改，我和楼上是同一个人，已解决conflict
 sufei           小菜一碟
 ns              学生
 Grace           留学生
-nazi		Developer
+nazi		        Developer
 pinkyw          front-end
 Bin             Umich
 kiddy           ui
@@ -282,7 +282,7 @@ kendydeng       纵火犯
 Tadayima        有强迫症的码农++
 xiao            初学者
 Yu              学习学习
-ls		本地
+ls		          本地
 Jeason          吃货-胖子
 dean            设计师
 luck            未来的领军人物
@@ -339,6 +339,8 @@ Roy             CAN
 subvertion      什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
 rimiHS          程序员
-rimiXK		程序员
+rimiXK		    程序员
 tony            学生
 RossLing        hello,everyone!
+leior           软件大湿
+leior2          软件大湿2
