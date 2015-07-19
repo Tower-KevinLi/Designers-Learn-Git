@@ -343,4 +343,3 @@ rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
 fengchen        学生
-fengchen2       student
