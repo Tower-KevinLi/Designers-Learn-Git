@@ -1,3 +1,7 @@
+﻿这是我在家晚上11点添加的文字。
+我在本地同步文件夹里修改了这些字。
+俺在家里又添加了这行字。
+
 
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 ﻿
@@ -342,3 +346,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+yaoyuandegou    网站美工-liang
