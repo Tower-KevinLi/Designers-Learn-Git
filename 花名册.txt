@@ -164,18 +164,18 @@ Owen        	程序
 steveoOn    	设计师+前端开发爱好者
 NULL            null
 twinkle     	大数据
-zhujia798	狼厂产品经理，微信zhujia798
-Key	        学生路过
+zhujia798   	狼厂产品经理，微信zhujia798
+Key	          学生路过
 0x30        	想做一名优秀的软件设计师
-icojump    	产品设计师(icojump.in)
-Kim Du   	UX designer
-InSb		摸石头过河的学生
+icojump    	  产品设计师(icojump.in)
+Kim Du   	    UX designer
+InSb		      摸石头过河的学生
 K    	        交互设计师
 Tony Wang   	Student
-limiwu		视觉设计
+limiwu		    视觉设计
 LuxuryD     	幻想成为编程大牛的学生，客户端打
-zmwybxzy	前端
-Checky		咖啡shi linkedin:yogastar
+zmwybxzy	    前端
+Checky		    咖啡shi linkedin:yogastar
 jieqinghua  	工业设计
 opqrst 		opqrst@163.com（java (0_0) 修改了）
 nixiaoyang    	在职软件工程硕士
@@ -248,7 +248,7 @@ Alice           学生-retry
 Rayston92       产品经理
 xczswt1993      想要學習網站開發的入門者
 zewait          无业流民
-explosic4  什么都不会,2333
+explosic4       什么都不会,2333
 shren           平面爱好者
 manglekuo       留學生
 manglekuo	留學生 //from clone
@@ -339,7 +339,7 @@ Roy             CAN
 subvertion      什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
 rimiHS          程序员
-rimiXK		程序员
+rimiXK	      	程序员
 tony            学生
 RossLing        hello,everyone!
-xufei_zhang     我是高大上iOS攻城师
+xufei_zhang     我是高大上iOS攻城师 V信:705109037
