@@ -193,11 +193,11 @@ hexin		本地
 yellowgun       设计师
 chingyao        web developer
 zackma          Coding......
-vilenice        大神不解释
-vin             前端
-Baby            System Analyst
+vilenice        大神不解释1
+vin             前端2
+Baby            System Analyst3
 liucailin       U3D程序猿
-08haozi         入门级别的全栈码农(好好学习天天向上)
+08haozi         入门级别的全栈码农(好好学习天天向上)4
 wukonggege  	  php
 vuliao          慢慢来
 anchundan       鹌鹑蛋蛋
