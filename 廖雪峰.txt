@@ -1,0 +1,7 @@
+Git is a version control system.
+Git is free software.
+我加的第一行字。
+第二行字也是我加的。
+我要加第三行字。
+我在客户端加第四行字，验证github客户端options里的用户名设置。
+我在服务器端加第五行字。
