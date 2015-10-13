@@ -33,7 +33,7 @@ zifeixu85       交互设计师+产品经理，微信公众号：zifeixu
 sayid           设计师
 justmetyou      PM
 sayid           designer  （sayid同学又玩了一遍？）
-mzhua       
+mzhua           NONE
 kinness         UI设计爱好者
 GeekTea         设计师梦
 zhengjunwei     frontend designer
@@ -76,7 +76,7 @@ remgoo          我是程序员，hello设计师们
 xiaoDC          想学习前端的后端程序员
 xiao2yah        UE/UX
 Jovid           攻城师前传
-是大叔的客户
+是大叔的客户       NONE
 LeaDone         java工程师
 mudanlin8       设计师。。
 Pyhoooo         胡思乱想
@@ -112,19 +112,19 @@ Tony            程序猿
 TryTry          采采
 wang033112      wang033112@163.com
 nikon           前端
-luffy
+luffy           NONE
 Feikeq          全端工程师
 Tina            前端设计
 Listener        不成熟的互动设计师
 coda            爱画画的前端
 TT              java工程师
 xinxiandong     Web前端 & Android开发
-uoft	    
+uoft	        NONE
 diao 		测试
 robin		计算机技术
 jshawcx		什么都做的程序猿
 denyee    	设计师222
-uoft	    
+uoft	        NONE
 Kongnuan	学生一枚
 Kongnuan	菜鸟一颗
 luxious		什么都不做的程序猿。
@@ -198,7 +198,7 @@ vin             前端
 Baby            System Analyst
 liucailin       U3D程序猿
 08haozi         入门级别的全栈码农(好好学习天天向上)
-wukonggege  	  php
+wukonggege  	php
 vuliao          慢慢来
 anchundan       鹌鹑蛋蛋
 gemmag          各种射鸡师
@@ -225,7 +225,7 @@ lzx1022         0.0
 sd              自由程序员
 Artyom84        运维工程师
 Max             F2E
-Mr.Cheng       卖烧饼的大叔
+Mr.Cheng        卖烧饼的大叔
 Ctrl-Xing       嵌入式渣渣开发者 + local change
 Alpha		Front-end Developer
 yuanchao        php工程师
@@ -248,15 +248,15 @@ Alice           学生-retry
 Rayston92       产品经理
 xczswt1993      想要學習網站開發的入門者
 zewait          无业流民
-explosic4  什么都不会,2333
+explosic4       什么都不会,2333
 shren           平面爱好者
 manglekuo       留學生
 manglekuo	留學生 //from clone
-小明            同学
+小明             同学
 shmilychomi     just for a study
 JackZeng        前端工程师
 silhouette      IT小白
-xiaojiang1205    码农渣渣一枚
+xiaojiang1205   码农渣渣一枚
 zilong          1234
 WoeOm           ~web   er
 cooc            ceo
@@ -332,7 +332,7 @@ waleson         abc-test
 Tadayima        有强迫症的码农++
 xiao            初学者
 sam             loser from 山东
-ming
+ming            NONE
 sean            喜欢深海的鱼
 anna            kick off
 Roy             CAN
