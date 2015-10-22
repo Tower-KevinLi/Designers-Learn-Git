@@ -113,7 +113,6 @@ TryTry          采采
 wang033112      wang033112@163.com
 nikon           前端
 luffy
-chenyv          教前端开发的老师
 Feikeq          全端工程师
 Tina            前端设计
 Listener        不成熟的互动设计师
@@ -343,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+chenyv          教前端开发的老师
