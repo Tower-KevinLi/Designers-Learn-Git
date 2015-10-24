@@ -342,3 +342,7 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+toowalker       hi
+toowalker1
+toowalker2      nihao
+zhang           haha
