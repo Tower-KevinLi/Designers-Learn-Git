@@ -212,6 +212,7 @@ raymond         产品经理
 kailin          game designer
 shylocked       UI设计师
 Taocat          撸er
+
 ak47612         JS
 MarsHelen       计算机硕士，编程渣渣
 yang            student
@@ -342,3 +343,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+ASoe            design
