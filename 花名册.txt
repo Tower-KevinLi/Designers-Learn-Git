@@ -342,3 +342,5 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+aloow           hello，我是ios开发工程师
+aub             即将毕业的设计师
