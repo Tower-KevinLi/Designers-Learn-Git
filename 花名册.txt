@@ -70,7 +70,6 @@ yiqueen         产品设计
 Exion           学生一枚
 phoebe          UI设计师
 lcyan           WEB设计
-Allison         UI设计
 zhudage         web前端设计师
 remgoo          我是程序员，hello设计师们
 xiaoDC          想学习前端的后端程序员
