@@ -5,7 +5,7 @@ KevinLi         Tower设计师  微博： @李凯文-KevinLi
 niuniu          学生
 nsynet          师计设
 qqxufo          1111111111
-niu		学生
+niu		          学生
 Zxming          小砖厂产品设计师
 sdaf            设计师
 Funpee	        设计师
@@ -88,7 +88,7 @@ liupzone        设计师
 alai            路过看看
 wis             开发22
 azjoeliu        rookie
-Foxz	        XYZ
+Foxz	          XYZ
 zs0821          想学技术的设计师
 GuanXu          前端
 GuidoVanRossum  python’s dad lol
@@ -339,6 +339,8 @@ Roy             CAN
 subvertion      什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
 rimiHS          程序员
-rimiXK		程序员
+rimiXK		 程序员
 tony            学生
 RossLing        hello,everyone!
+ZiBin           iOS(Web端)
+ZiBin           iOS(Mac端)
