@@ -30,6 +30,7 @@ MelissaMin      学僧
 test            test
 qqtang          UIdesign
 zifeixu85       交互设计师+产品经理，微信公众号：zifeixu
+dwerdwer        上海C++猿
 sayid           设计师
 justmetyou      PM
 sayid           designer  （sayid同学又玩了一遍？）
