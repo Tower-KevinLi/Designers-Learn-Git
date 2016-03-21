@@ -332,7 +332,7 @@ waleson         abc-test
 Tadayima        有强迫症的码农++
 xiao            初学者
 sam             loser from 山东
-ming
+min zhu
 sean            喜欢深海的鱼
 anna            kick off
 Roy             CAN
@@ -342,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+cliusz          开源闭源都得铭记一句话：饮水不忘挖井人。感谢提供学习平台的每一个你！Mar 21, 2016
