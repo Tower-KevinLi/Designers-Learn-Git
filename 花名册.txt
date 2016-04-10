@@ -1,5 +1,10 @@
 
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+
+修改后的 花名册
+
+再次修改的  花名册
+
 ﻿
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
 niuniu          学生
@@ -17,7 +22,7 @@ GaryTo          想学设计的市场系学生
 Vin Wong        Designer&&Coder
 jon             设计师
 songenlang      设计师
-Czzhengkw       职业屌丝
+Czzhengkw       职业屌丝事
 Keer            IT工程师
 ziolau          宇航员
 ningning        设计师
@@ -170,7 +175,7 @@ Key	        学生路过
 icojump    	产品设计师(icojump.in)
 Kim Du   	UX designer
 InSb		摸石头过河的学生
-K    	        交互设计师
+K    	        交互设计师jhjh
 Tony Wang   	Student
 limiwu		视觉设计
 LuxuryD     	幻想成为编程大牛的学生，客户端打
