@@ -343,3 +343,4 @@ rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
 nixiaohui       好学生
+hugo 		新来的
