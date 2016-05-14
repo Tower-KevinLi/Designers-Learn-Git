@@ -342,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+LiuJason        一名大一的学生(I want to work for google in the future.)
