@@ -27,7 +27,7 @@ LumpyLi         产品企划
 mikeyoung       少女之友
 MelissaMin      学僧
 程序猿旺旺        码农
-test            test
+Slman             前端      test
 qqtang          UIdesign
 zifeixu85       交互设计师+产品经理，微信公众号：zifeixu
 sayid           设计师
