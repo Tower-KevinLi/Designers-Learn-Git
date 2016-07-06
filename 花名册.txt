@@ -342,5 +342,8 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+<<<<<<< HEAD
 uu              咸鱼
 uu              本地测试
+=======
+>>>>>>> parent of 5244b5b... Update 花名册.txt
