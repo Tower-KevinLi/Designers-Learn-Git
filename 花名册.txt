@@ -1,4 +1,4 @@
-
+﻿
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 ﻿
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
@@ -342,3 +342,8 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+<<<<<<< HEAD
+uu              咸鱼
+uu              本地测试
+=======
+>>>>>>> parent of 5244b5b... Update 花名册.txt
