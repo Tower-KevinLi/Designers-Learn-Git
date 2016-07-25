@@ -1,4 +1,4 @@
-
+﻿
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 ﻿
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
@@ -112,6 +112,7 @@ Tony            程序猿
 TryTry          采采
 wang033112      wang033112@163.com
 nikon           前端
+lzq             程序猿
 luffy
 Feikeq          全端工程师
 Tina            前端设计
