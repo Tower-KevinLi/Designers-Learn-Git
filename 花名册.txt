@@ -26,7 +26,6 @@ Rubot           android开发工程师
 LumpyLi         产品企划
 mikeyoung       少女之友
 MelissaMin      学僧
-程序猿旺旺        码农
 test            test
 qqtang          UIdesign
 zifeixu85       交互设计师+产品经理，微信公众号：zifeixu
@@ -339,6 +338,7 @@ Roy             CAN
 subvertion      什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
 rimiHS          程序员
-rimiXK		程序员
+rimiXK					程序员
 tony            学生
 RossLing        hello,everyone!
+myccnice				java工程师
