@@ -81,7 +81,7 @@ LeaDone         java工程师
 mudanlin8       设计师。。
 Pyhoooo         胡思乱想
 JellyDai        Oracle设计师
-chisifang       学生+Java程序猿+chisifang@163.com
+chisifang       学生+Java程序猿+chisg@163.com
 luck2011        前端一枚
 zm              设计师
 liupzone        设计师
@@ -342,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+huangxiansheng   hello python
