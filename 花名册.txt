@@ -341,5 +341,5 @@ GZIvan          搬砖的
 rimiHS          程序员
 rimiXK		程序员
 tony            学生
-peco            广东工业大学研究生   想来学习下github
+peco            广东工业大学研究生   想来学习下github。
 RossLing        hello,everyone!
