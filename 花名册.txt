@@ -335,6 +335,7 @@ sam             loser from 山东
 ming
 sean            喜欢深海的鱼
 anna            kick off
+peter           developer
 Roy             CAN
 subvertion      什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
