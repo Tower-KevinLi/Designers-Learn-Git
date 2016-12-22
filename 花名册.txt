@@ -343,4 +343,4 @@ rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
 Sola            losing
-sola            i m the same
+sola            i m the
