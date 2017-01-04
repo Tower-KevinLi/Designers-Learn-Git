@@ -343,3 +343,5 @@ rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
 nyannew         学生
+jane            学生-retry
+jurujf
