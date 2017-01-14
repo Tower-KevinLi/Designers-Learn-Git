@@ -209,6 +209,7 @@ innoncence      设计师
 bobchu          产品设计师
 liuxiaotong     霍格沃兹魔法学校校长
 raymond         产品经理
+voc             
 kailin          game designer
 shylocked       UI设计师
 Taocat          撸er
@@ -342,3 +343,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+Voc             又一个初学者
