@@ -138,7 +138,7 @@ btpig       	交互设计师+学开发
 Pbook       	建筑设计师
 lzxlk2      	售前工程师
 momo        	刚毕业求职中
-Lucassssss  	产品经理
+Lucassssss  	产品
 cnkanglong  	python修行者
 ender666    	UX设计学徒
 AdrianLuo   	Designer
