@@ -7,7 +7,7 @@ nsynet          师计设
 qqxufo          1111111111
 niu		学生
 Zxming          小砖厂产品设计师
-sdaf            设计师
+sdaf            设计
 Funpee	        设计师
 shihong         攻城狮就是我
 shi             设计师
@@ -342,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+PingPi          monster
