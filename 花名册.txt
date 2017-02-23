@@ -342,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+SUE SU          我是一只跨专业蒙蔽菜鸟
