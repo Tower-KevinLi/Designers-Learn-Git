@@ -342,4 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
-Jonny           动画师，哈哈哈
+Jonny           动画师
