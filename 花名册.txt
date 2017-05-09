@@ -1,40 +1,29 @@
-nmon使用手册
-登陆服务器地址： 192.168.68.46
-登陆使用的用户名root 密码 rytongv11
-
-1、>将下载的centos_86_64_os6重命名为nmon文件放到linux服务器上，并修改权限，-777-，
-2、>在服务器中中修改权限 chmod +x 文件名
-     mv 原文件 新文件
-其中这两种方法是等价的
-运行./nmon 之后在屏幕上出现  nmon的黑体字表示安装nmon成功，此时登陆用户为root用户
-当登陆账户不是root用户时 直接输入 nmon 进行启动nmon工具
-文件形式采集 
-./nmon -f -s 10 -c 20 此时会生成个.nmon文件
-此时的文件采集中文件大小不能超过65K行（excel的限制）大约是收集次数不超过330次就可以
-nmon文件转化为.csv文件  
-sort **.nmon > **.csv
-打开nmon analyser v33.xls
-点击 analyse nmon data 选择相应的.csv文件 
-文件采集中途要是想中断该文件的生成可以通过一下命令
-	1、查看改进程是否任然在进行 ps -ef | grep nmon 查到的结果中，要是有./nmon时表示进程还在运行，要是没有表示进程没有进行
-	2、中断进程方法：
-		1、killall nmon
-		2、查看带有 ./nmon 行的进程号 （紧跟root后面的为进程号）直接 kill 进程号
-通过cat命令可以查看 centos 系统的 cpu信息
-cat /proc/cpuinfo
-
-
-
-nmon执行期间遇到的问题
-
-1、通过xshell 在 linux系统中使用  rz 来上传文件时提示 commond not found 
-解决方法： yum install lrzsz
-  linux中下载文件到本地的命令 sz
-http://www.cnblogs.com/zhwl/p/3742039.html
-2、使用ssh客户端上传文件到服务器
-直接将要上传的文件拖拽到右边 服务器栏中 既可
-3、wps vba插件缺省导致 宏 不能打开
-下载vba插件 运行
-提示 “运行时错误：13”是因为nmon analyser 与nmon的版本不匹配
-更换之后若还是报错 就换个office版本 亲测——office 2013可以打开.csv文件
-4、linux下删除文件夹 rm -rf 文件名    r 向下递归 f 强制删除
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
+https://github.com/VICTORY0931/Designers-Learn-Git.git
