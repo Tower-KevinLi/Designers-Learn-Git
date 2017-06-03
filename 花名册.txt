@@ -1,7 +1,9 @@
-
-请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 ﻿
-KevinLi         Tower设计师  微博： @李凯文-KevinLi
+请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
+
+love-light      绝世无敌大帅哥一枚
+ken               卖猪郎
+KevinLi         Tower设计师  微博： @李凯文-KevinLi
 niuniu          学生
 nsynet          师计设
 qqxufo          1111111111
@@ -265,7 +267,7 @@ sallay          码工一枚
 yanhao        	产品经理... yanhaomail@foxmail.com
 angelzou      	学生一枚
 kainever        大牛和菜鸟
-broleon         宁夏银川初级码农
+obroleon         宁夏银川初级码农
 bollen_Chak	本地修改，我和楼上是同一个人，已解决conflict
 sufei           小菜一碟
 ns              学生
@@ -275,7 +277,7 @@ pinkyw          front-end
 Bin             Umich
 kiddy           ui
 Tong Shen       初学者
-guo             你先生
+lguo             你先生
 you             有先生
 kendydeng       强奸犯
 kendydeng       纵火犯
