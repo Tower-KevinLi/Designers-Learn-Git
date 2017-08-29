@@ -68,8 +68,8 @@ jack            卖菜的
 sunnist         product desgin；weibo @sunnist-wanyan
 yiqueen         产品设计
 Exion           学生一枚
-phoebe          UI设计师
-lcyan           WEB设计
+phoebe          看看；
+lcyan          WEB设计
 Allison         UI设计
 zhudage         web前端设计师
 remgoo          我是程序员，hello设计师们
