@@ -1,4 +1,4 @@
-
+﻿
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 ﻿
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
@@ -205,7 +205,8 @@ gemmag          各种射鸡师
 Elvin Zheng     小红书UI设计师
 happysha        程序员&设计师
 henriPANG       工业设计小学在读
-innoncence      设计师
+Iand            醫學
+innoncence      设计师
 bobchu          产品设计师
 liuxiaotong     霍格沃兹魔法学校校长
 raymond         产品经理
@@ -342,3 +343,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+iand		練習
