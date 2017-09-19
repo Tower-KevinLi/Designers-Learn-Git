@@ -1,0 +1,134 @@
+Description
+
+@RandomHomework.java
+
+Write a getCourse() method in the RandomHomework class to return a course randomly from four predefined courses.
+
+First, create a string array which contains four course name.
+Create an object of Random class, and use its nextInt(4) method to randomly return an int from [0,4) (4 excluded)
+Return the course name in the string array with the index (random int) 
+
+
+@Fibonacci.java
+
+Modification:
+1. line22: else if(n<2) ---> else if(n<1)
+
+Because the first index of the sequence is 0, the first two index is 0 and 1. Thus, the condition should be n<1 to catch the two base situation n=0 and n=1.
+
+2. line25: return getFibTerm(n - 1) - getFibTerm(n - 2) ---> return getFibTerm(n - 1) + getFibTerm(n - 2) 
+
+According to the rule of Fibonacci sequence, the subsequent term is the sum of the previous two terms, not the substraction.
+
+
+
+@ReverseNumber.java
+
+Write a method "Reverse(int n)" to return the reversed number of a given integer, and a main method to receive input from user,
+
+create an ReverseNumber object and call the "Reverse(int n)" method to reverse the input number.
+
+
+Using the fact that n/10 equals to delete the last digit of the number n and that n%10 will get the last digit of the number n.
+
+Thus using a loop until n becomes 0, in each step, using n%10 to get the current last digit and a varible "reverse" is seted to
+
+get the current reversed part by "reverse = reverse *10 +n%10". Then using n = n/10 to get the new integere which delete the last
+
+digit of previous integer(for example 12/10 =1 , 12-->1).
+
+In addition we will use a variable newreverse to detect whether the reversed number exceeds the maximum limitation of int. 
+
+
+
+@ReverseNumberTest.java
+
+Test that ReverseNumber.Reverse() throws an IllegalArgumentException for a given integer whose reversed number exceeds the maximum of int
+
+Test to see that whether ReverseNumber.Reverse() returns the correct number for a given set of integer.
+
+
+@Vehicle.java
+
+4Modifications:
+
+1. In the constructor, we need to specify this.velocity = velocity, the same to this.direction = direction.
+
+2.In the getVelocity() method, to get the velocity, we should return velocity, not return zero.
+
+3.In the getDirection,to get the direction, we should return direction, not return zero. Also the return type should be
+
+double, not int.
+
+4. In addition, I add a new method setVelocity(double v) to reset the velocity of the vehicle for the use of ScenicRoad.java
+
+
+@VehicleTest.java 
+
+Test to see that whether getVelocity() returns the correct number
+
+Test to see that whether getDirection() returns the correct number
+
+
+@highway.java
+
+This class has three private variable to maintan, which are Set<Vehicle> contents; int numE;int numW;
+
+contents is the container for the vehicle added to this class. numE is the number of vehicle in the Eastbound direction, 
+
+numW is the number of vehicle in the Westbound direction.
+
+The constructor create a Set<Vehicle> object, and let numE, numW to be 0. Due to the type of contents is Set<Vehicle>, so  
+
+when it add an element that is already exists. it will return false.If the add()method of Set<Vehicle> contents excute successfully,
+
+we will update numE or numW by plusing one according to its direction. When we remove a Vehicle,it is much same like add().
+
+When we want to getVelochityEastbound() which return the minimum velocity in the Eastbound direction, we traverse the whole set by 
+
+iterator.While travesal, we maintain a minmum variable to compare with each element in the set to find the minimum in the set. It is 
+
+the same to getVelocityWestbound(). We can simply return numE,numW to get number of vehicle whose direction is Eastbound or Westbound
+
+accordingly since we have maintained it through add()and remove()methods.The contains(Vehicle v) method can simply obtain by using 
+
+cotents.contains(v) because Set has the method contains to check whether the element is in the set.
+
+
+@highwayTest.java
+
+Test to see that whether add() returns the correct boolean value
+
+Test to see that whether remove() returns the correct boolean value
+
+Test to see that whether getVelocityEastbound() returns the correct number
+
+Test to see that whether getVeolocityWestbound() returns the correct number
+
+Test to see that whether numberVehiclesWastbound() returns the correct boolean value
+
+Test to see that whether numberVehiclesWastbound() returns the correct boolean value
+
+Test to see that whether contains() returns the correct boolean value
+
+
+
+@ScenicRoad.java
+
+It is much like highWay except that If the present number of vehicle in the direction of ScenicRoad exceeds the bandwidth(maximum 
+
+number),for those vehicle whose present velocity is lareger than 5, they will slow down to 5mph. For those whose velocity
+
+is smaller than 5mph,they will keep their present velocity.
+
+
+@ScenicRoadTest.java
+
+Test to see that whether add() returns the correct boolean value
+
+Test to see when the number exceeds the bandwidth, will the velocity slow down to 5 for those whose present velocity is larger than 5£¿
+
+and will the velocity keep their present value for those whose present velocity is smaller than 5 £¿
+
+
+
