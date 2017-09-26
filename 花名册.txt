@@ -63,7 +63,7 @@ Audrey-Han      设计师
 Mark            硬件攻城狮正在学习做程序猿
 com             前端
 ajason          UI,UE Designer
-Jurassic        学生
+Jurassic        学生 
 jack            卖菜的
 sunnist         product desgin；weibo @sunnist-wanyan
 yiqueen         产品设计
@@ -342,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+youkaede77      程序猿
