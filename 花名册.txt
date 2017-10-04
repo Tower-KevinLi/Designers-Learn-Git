@@ -342,3 +342,7 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+<<<<<<< HEAD
+shao    程序幼儿园
+=======
+>>>>>>> parent of 7926e8c... shao
