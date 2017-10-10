@@ -4,7 +4,7 @@
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
 niuniu          学生
 nsynet          师计设
-qqxufo          1111111111
+qqxufo          1111111111ABC
 niu		学生
 Zxming          小砖厂产品设计师
 sdaf            设计师
@@ -342,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+R11              R11PLUS
