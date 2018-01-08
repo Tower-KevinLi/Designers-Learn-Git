@@ -251,7 +251,7 @@ zewait          无业流民
 explosic4  什么都不会,2333
 shren           平面爱好者
 manglekuo       留學生
-manglekuo	留學生 //from clone
+manglekuo		留學生 //from clone
 小明            同学
 shmilychomi     just for a study
 JackZeng        前端工程师
@@ -270,6 +270,20 @@ bollen_Chak	本地修改，我和楼上是同一个人，已解决conflict
 sufei           小菜一碟
 ns              学生
 Grace           留学生
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> hungryxiao-master
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> syz2580-master
+<<<<<<< HEAD
 nazi		Developer
 pinkyw          front-end
 Bin             Umich
@@ -279,6 +293,7 @@ guo             你先生
 you             有先生
 kendydeng       强奸犯
 kendydeng       纵火犯
+<<<<<<< HEAD
 Tadayima        有强迫症的码农++
 xiao            初学者
 Yu              学习学习
@@ -293,7 +308,7 @@ camac           just a person,plz @.
 zhyc            前端菜鸟
 hydrowing       老透明 =ω=
 ruihan-rey      设计师
-PuRonglong      前端工程师
+PuRonglong     前端工程师
 Sherry          交互设计师
 felixzhou       开始学编程的产品人+设计，立志全栈
 Leon            新入代码学生
@@ -327,7 +342,6 @@ HahahaVector    新手_客户端
 Tony            PM初学
 kalechao        交互设计师
 cool            摸一摸code
-DarlingLi       国软国软牛逼闪闪
 waleson         abc-test
 Tadayima        有强迫症的码农++
 xiao            初学者
