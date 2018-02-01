@@ -2,6 +2,7 @@
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 ﻿
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
+Anson Chow      学生（重点在于_初中生_编程界的稀有动植物） 在学C++ HelloWorld！
 niuniu          学生
 nsynet          师计设
 qqxufo          1111111111
