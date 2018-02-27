@@ -1,4 +1,4 @@
-
+﻿
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 ﻿
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
@@ -36,7 +36,7 @@ sayid           designer  （sayid同学又玩了一遍？）
 mzhua       
 kinness         UI设计爱好者
 GeekTea         设计师梦
-zhengjunwei     frontend designer
+zhengjunwei     frontend designer 
 longlongdada    画画的 敲代码的  (帮你合并一下哈)
 crystal         打酱油的
 Koluis          搬运工
@@ -341,4 +341,6 @@ GZIvan          搬砖的
 rimiHS          程序员
 rimiXK		程序员
 tony            学生
+jom             工程师
 RossLing        hello,everyone!
+jjc             学生
