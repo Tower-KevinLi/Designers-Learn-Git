@@ -6,6 +6,7 @@ niuniu          学生
 nsynet          师计设
 qqxufo          1111111111
 niu		学生
+qing	qing
 Zxming          小砖厂产品设计师
 sdaf            设计师
 Funpee	        设计师
@@ -27,6 +28,8 @@ LumpyLi         产品企划
 mikeyoung       少女之友
 MelissaMin      学僧
 程序猿旺旺        码农
+test			测试
+kickoff			发起
 test            test
 qqtang          UIdesign
 zifeixu85       交互设计师+产品经理，微信公众号：zifeixu
