@@ -239,7 +239,7 @@ Richor          designer 0.0
 lzx1022         0.0asdfsa
 parsonh         UI Designer..
 liangyk         liangyk 两只猴
-2276225819      不会打打命令行的程序
+2276225819    不会打打命令行的程序
 flash           风靡万千少女
 becarefullee    小屁孩
 becarefullee    玩家
@@ -342,3 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+LEFTORRIGHT   UI
