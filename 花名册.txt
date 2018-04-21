@@ -63,8 +63,7 @@ Audrey-Han      设计师
 Mark            硬件攻城狮正在学习做程序猿
 com             前端
 ajason          UI,UE Designer
-Jurassic        学生
-jack            卖菜的
+Jurassic     
 sunnist         product desgin；weibo @sunnist-wanyan
 yiqueen         产品设计
 Exion           学生一枚
