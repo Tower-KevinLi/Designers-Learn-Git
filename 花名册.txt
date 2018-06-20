@@ -342,5 +342,9 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+<<<<<<< HEAD
 Jeffrey     kakak
 kakak           houhou
+=======
+Jeffrey     爱好者
+>>>>>>> 6241b0a66a8512fc21ac503a5ffe1e443522ab1d
