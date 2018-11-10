@@ -342,5 +342,8 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+<<<<<<< HEAD
 frozenlin       学生
 zzzzzzz		coder
+=======
+>>>>>>> parent of b48fe73... Update 花名册.txt
