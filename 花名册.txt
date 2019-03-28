@@ -270,7 +270,7 @@ bollen_Chak	本地修改，我和楼上是同一个人，已解决conflict
 sufei           小菜一碟
 ns              学生
 Grace           留学生
-nazi		Developer
+nazi		        Developer
 pinkyw          front-end
 Bin             Umich
 kiddy           ui
@@ -339,6 +339,8 @@ Roy             CAN
 subvertion      什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
 rimiHS          程序员
-rimiXK		程序员
+rimiXK		      程序员
 tony            学生
 RossLing        hello,everyone!
+yinlezi         hello
+小印             还是我嘻嘻
