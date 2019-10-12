@@ -88,7 +88,7 @@ liupzone        设计师
 alai            路过看看
 wis             开发22
 azjoeliu        rookie
-Foxz	        XYZ
+Foxz	          XYZ
 zs0821          想学技术的设计师
 GuanXu          前端
 GuidoVanRossum  python’s dad lol
@@ -120,16 +120,16 @@ coda            爱画画的前端
 TT              java工程师
 xinxiandong     Web前端 & Android开发
 uoft	    
-diao 		测试
-robin		计算机技术
-jshawcx		什么都做的程序猿
-denyee    	设计师222
+diao 		        测试
+robin		        计算机技术
+jshawcx		      什么都做的程序猿
+denyee    	    设计师222
 uoft	    
-Kongnuan	学生一枚
-Kongnuan	菜鸟一颗
-luxious		什么都不做的程序猿。
-shandinan	前端设计&.net 开发
-nicezhou	产品经理
+Kongnuan	      学生一枚
+Kongnuan	      菜鸟一颗
+luxious		      什么都不做的程序猿。
+shandinan	      前端设计&.net 开发
+nicezhou	    产品经理
 Jiyan Guo   	software developer
 chenxi      	学生
 wallop      	程序员一枚
@@ -144,7 +144,7 @@ ender666    	UX设计学徒
 AdrianLuo   	Designer
 Pigwidgeon  	前端设计
 Ketu        	Just have a try :)
-Godlovexin 	菜鸟
+Godlovexin 	  菜鸟
 Sorlax      	IT engineer
 jh          	前端
 SandyLing   	三无青年
@@ -164,18 +164,18 @@ Owen        	程序
 steveoOn    	设计师+前端开发爱好者
 NULL            null
 twinkle     	大数据
-zhujia798	狼厂产品经理，微信zhujia798
+zhujia798	  狼厂产品经理，微信zhujia798
 Key	        学生路过
-0x30        	想做一名优秀的软件设计师
+0x30        想做一名优秀的软件设计师
 icojump    	产品设计师(icojump.in)
-Kim Du   	UX designer
-InSb		摸石头过河的学生
+Kim Du   	  UX designer
+InSb		    摸石头过河的学生
 K    	        交互设计师
 Tony Wang   	Student
-limiwu		视觉设计
+limiwu		    视觉设计
 LuxuryD     	幻想成为编程大牛的学生，客户端打
-zmwybxzy	前端
-Checky		咖啡shi linkedin:yogastar
+zmwybxzy	    前端
+Checky		    咖啡shi linkedin:yogastar
 jieqinghua  	工业设计
 opqrst 		opqrst@163.com（java (0_0) 修改了）
 nixiaoyang    	在职软件工程硕士
@@ -225,9 +225,9 @@ lzx1022         0.0
 sd              自由程序员
 Artyom84        运维工程师
 Max             F2E
-Mr.Cheng       卖烧饼的大叔
+Mr.Cheng        卖烧饼的大叔
 Ctrl-Xing       嵌入式渣渣开发者 + local change
-Alpha		Front-end Developer
+Alpha		        Front-end Developer
 yuanchao        php工程师
 yccphp		袁超
 haha            number two
@@ -248,10 +248,10 @@ Alice           学生-retry
 Rayston92       产品经理
 xczswt1993      想要學習網站開發的入門者
 zewait          无业流民
-explosic4  什么都不会,2333
+explosic4       什么都不会,2333
 shren           平面爱好者
 manglekuo       留學生
-manglekuo	留學生 //from clone
+manglekuo	      留學生 //from clone
 小明            同学
 shmilychomi     just for a study
 JackZeng        前端工程师
@@ -339,6 +339,7 @@ Roy             CAN
 subvertion      什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
 rimiHS          程序员
-rimiXK		程序员
+rimiXK		      程序员
 tony            学生
 RossLing        hello,everyone!
+kevin           本科机械在读
