@@ -1,6 +1,7 @@
-
+﻿
 请在下面加上你的昵称和Title，或者联系方式什么都行，注意一人一行哦：
 ﻿
+lxd             python设计师，我是最好的的，解放大数据’
 KevinLi         Tower设计师  微博： @李凯文-KevinLi
 niuniu          学生
 nsynet          师计设
