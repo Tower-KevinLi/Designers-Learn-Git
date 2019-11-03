@@ -33,7 +33,7 @@ zifeixu85       交互设计师+产品经理，微信公众号：zifeixu
 sayid           设计师
 justmetyou      PM
 sayid           designer  （sayid同学又玩了一遍？）
-mzhua       
+mzhua
 kinness         UI设计爱好者
 GeekTea         设计师梦
 zhengjunwei     frontend designer
@@ -119,12 +119,12 @@ Listener        不成熟的互动设计师
 coda            爱画画的前端
 TT              java工程师
 xinxiandong     Web前端 & Android开发
-uoft	    
+uoft
 diao 		测试
 robin		计算机技术
 jshawcx		什么都做的程序猿
 denyee    	设计师222
-uoft	    
+uoft
 Kongnuan	学生一枚
 Kongnuan	菜鸟一颗
 luxious		什么都不做的程序猿。
@@ -343,3 +343,4 @@ rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
 freechar        学生
+freechar        本地编辑
