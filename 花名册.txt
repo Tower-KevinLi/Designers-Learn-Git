@@ -5,7 +5,7 @@ KevinLi         Tower设计师  微博： @李凯文-KevinLi
 niuniu          学生
 nsynet          师计设
 qqxufo          1111111111
-niu		学生
+niu		          学生
 Zxming          小砖厂产品设计师
 sdaf            设计师
 Funpee	        设计师
@@ -26,14 +26,14 @@ Rubot           android开发工程师
 LumpyLi         产品企划
 mikeyoung       少女之友
 MelissaMin      学僧
-程序猿旺旺        码农
+程序猿旺旺       码农
 test            test
 qqtang          UIdesign
 zifeixu85       交互设计师+产品经理，微信公众号：zifeixu
 sayid           设计师
 justmetyou      PM
 sayid           designer  （sayid同学又玩了一遍？）
-mzhua       
+mzhua           无
 kinness         UI设计爱好者
 GeekTea         设计师梦
 zhengjunwei     frontend designer
@@ -48,7 +48,7 @@ Shawn           UI设计师
 EricTao         顺丰快递员；工号401287
 XerPhong        游戏动效设计师
 ToryLee         前端工程师
-今日立冬          网页、UI设计师
+今日立冬         网页、UI设计师
 zhongerxin      网页设计师  QQ：490456111
 kingsir         设计师
 wedaren         工业设计
@@ -76,7 +76,7 @@ remgoo          我是程序员，hello设计师们
 xiaoDC          想学习前端的后端程序员
 xiao2yah        UE/UX
 Jovid           攻城师前传
-是大叔的客户
+是大叔的客户     无
 LeaDone         java工程师
 mudanlin8       设计师。。
 Pyhoooo         胡思乱想
@@ -88,7 +88,7 @@ liupzone        设计师
 alai            路过看看
 wis             开发22
 azjoeliu        rookie
-Foxz	        XYZ
+Foxz	          XYZ
 zs0821          想学技术的设计师
 GuanXu          前端
 GuidoVanRossum  python’s dad lol
@@ -112,74 +112,74 @@ Tony            程序猿
 TryTry          采采
 wang033112      wang033112@163.com
 nikon           前端
-luffy
+luffy           无
 Feikeq          全端工程师
 Tina            前端设计
 Listener        不成熟的互动设计师
 coda            爱画画的前端
 TT              java工程师
 xinxiandong     Web前端 & Android开发
-uoft	    
-diao 		测试
-robin		计算机技术
-jshawcx		什么都做的程序猿
-denyee    	设计师222
-uoft	    
-Kongnuan	学生一枚
-Kongnuan	菜鸟一颗
-luxious		什么都不做的程序猿。
-shandinan	前端设计&.net 开发
-nicezhou	产品经理
-Jiyan Guo   	software developer
-chenxi      	学生
-wallop      	程序员一枚
-yajun       	测试工程师
-btpig       	交互设计师+学开发
-Pbook       	建筑设计师
-lzxlk2      	售前工程师
-momo        	刚毕业求职中
-Lucassssss  	产品经理
-cnkanglong  	python修行者
-ender666    	UX设计学徒
-AdrianLuo   	Designer
-Pigwidgeon  	前端设计
-Ketu        	Just have a try :)
-Godlovexin 	菜鸟
-Sorlax      	IT engineer
-jh          	前端
-SandyLing   	三无青年
-kiciollo    	学生猿
-yyg245      	前端开发
-ahjdzx1990  	伟大的猿人
-botao1      	交互设计师
-5star       	设计师&前端工程师
-weblol      	前端设计
-shandinan   	前端设计&.net 开发
-ericliu     	java programmer
-dachuan     	专业抱小孩的
-ale233      	美工
-pigtruman   	Web Designer
-Will Shi    	NOT A C++ PROGRAMER
-Owen        	程序
-steveoOn    	设计师+前端开发爱好者
+uoft	          无
+diao 		        测试
+robin		        计算机技术
+jshawcx		      什么都做的程序猿
+denyee         	设计师222
+uoft	          无
+Kongnuan       	学生一枚
+Kongnuan	      菜鸟一颗
+luxious	      	什么都不做的程序猿
+shandinan     	前端设计&.net 开发
+nicezhou	      产品经理
+Jiyan Guo      	software developer
+chenxi        	学生
+wallop        	程序员一枚
+yajun         	测试工程师
+btpig         	交互设计师+学开发
+Pbook         	建筑设计师
+lzxlk2        	售前工程师
+momo          	刚毕业求职中
+Lucassssss    	产品经理
+cnkanglong    	python修行者
+ender666      	UX设计学徒
+AdrianLuo     	Designer
+Pigwidgeon      前端设计
+Ketu           	Just have a try :)
+Godlovexin    	菜鸟
+Sorlax        	IT engineer
+jh          	  前端
+SandyLing     	三无青年
+kiciollo     	  学生猿
+yyg245        	前端开发
+ahjdzx1990     	伟大的猿人
+botao1      	  交互设计师
+5star       	  设计师&前端工程师
+weblol        	前端设计
+shandinan     	前端设计&.net 开发
+ericliu     	  java programmer
+dachuan     	  专业抱小孩的
+ale233      	  美工
+pigtruman   	  Web Designer
+Will Shi    	  NOT A C++ PROGRAMER
+Owen        	  程序
+steveoOn    	  设计师+前端开发爱好者
 NULL            null
-twinkle     	大数据
-zhujia798	狼厂产品经理，微信zhujia798
-Key	        学生路过
-0x30        	想做一名优秀的软件设计师
-icojump    	产品设计师(icojump.in)
-Kim Du   	UX designer
-InSb		摸石头过河的学生
-K    	        交互设计师
-Tony Wang   	Student
-limiwu		视觉设计
-LuxuryD     	幻想成为编程大牛的学生，客户端打
-zmwybxzy	前端
-Checky		咖啡shi linkedin:yogastar
-jieqinghua  	工业设计
-opqrst 		opqrst@163.com（java (0_0) 修改了）
+twinkle     	  大数据
+zhujia798	      狼厂产品经理，微信zhujia798
+Key	            学生路过
+0x30        	  想做一名优秀的软件设计师
+icojump    	    产品设计师(icojump.in)
+Kim Du   	      UX designer
+InSb		        摸石头过河的学生
+K    	          交互设计师
+Tony Wang   	  Student
+limiwu		      视觉设计
+LuxuryD     	  幻想成为编程大牛的学生，客户端打
+zmwybxzy	      前端
+Checky		      咖啡shi linkedin:yogastar
+jieqinghua  	  工业设计
+opqrst 		      opqrst@163.com（java (0_0) 修改了）
 nixiaoyang    	在职软件工程硕士
-taoxiaobin  	一步一个脚印
+taoxiaobin  	  一步一个脚印
 leichunfeng     iOS攻城狮
 leichunfeng     iOS攻城狮(GitHub客户端)
 bruce9237     	前端开发设计+学设计
@@ -189,7 +189,7 @@ xianglong11     一个小
 jia             我在测试本地协作
 joueu           想搞IOS开发的小学生
 hexin           php
-hexin		本地
+hexin		        本地
 yellowgun       设计师
 chingyao        web developer
 zackma          Coding......
@@ -225,11 +225,11 @@ lzx1022         0.0
 sd              自由程序员
 Artyom84        运维工程师
 Max             F2E
-Mr.Cheng       卖烧饼的大叔
+Mr.Cheng        卖烧饼的大叔
 Ctrl-Xing       嵌入式渣渣开发者 + local change
-Alpha		Front-end Developer
+Alpha		        Front-end Developer
 yuanchao        php工程师
-yccphp		袁超
+yccphp		      袁超
 haha            number two
 icaxaqiao       设计师
 isfooly         宇航员
@@ -248,10 +248,10 @@ Alice           学生-retry
 Rayston92       产品经理
 xczswt1993      想要學習網站開發的入門者
 zewait          无业流民
-explosic4  什么都不会,2333
+explosic4       什么都不会,2333
 shren           平面爱好者
 manglekuo       留學生
-manglekuo	留學生 //from clone
+manglekuo	      留學生 //from clone
 小明            同学
 shmilychomi     just for a study
 JackZeng        前端工程师
@@ -266,11 +266,11 @@ yanhao        	产品经理... yanhaomail@foxmail.com
 angelzou      	学生一枚
 kainever        大牛和菜鸟
 broleon         宁夏银川初级码农
-bollen_Chak	本地修改，我和楼上是同一个人，已解决conflict
+bollen_Chak	    本地修改，我和楼上是同一个人，已解决conflict
 sufei           小菜一碟
 ns              学生
 Grace           留学生
-nazi		Developer
+nazi		        Developer
 pinkyw          front-end
 Bin             Umich
 kiddy           ui
@@ -282,7 +282,7 @@ kendydeng       纵火犯
 Tadayima        有强迫症的码农++
 xiao            初学者
 Yu              学习学习
-ls		本地
+ls		          本地
 Jeason          吃货-胖子
 dean            设计师
 luck            未来的领军人物
@@ -332,13 +332,14 @@ waleson         abc-test
 Tadayima        有强迫症的码农++
 xiao            初学者
 sam             loser from 山东
-ming
+ming            无
 sean            喜欢深海的鱼
 anna            kick off
 Roy             CAN
 subvertion      什么都懂点什么都不精通的在校码农
 GZIvan          搬砖的
 rimiHS          程序员
-rimiXK		程序员
+rimiXK		      程序员
 tony            学生
 RossLing        hello,everyone!
+qiuyiyang0521   爱编程(python)的小学生（把文件整理了一下，希望采纳）
