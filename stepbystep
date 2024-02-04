@@ -1,0 +1,27 @@
+预备动作：
+git安装
+git用户配置
+git config --global user.name xxx
+git config --global user.email xxx@xxx.com
+生成sshkey并添加到github.com的帐户中
+
+1 初始化 
+$ git init
+
+2 添加新内容
+$ git add .
+
+3 提交本地
+$ git commit -m "CMT"
+
+4 主分支
+$ git branch -M main
+
+5 关联远程仓库
+$ git remote add origin git@github.com:nixiaohui/lvim_conf.git
+
+6 提交代码
+$ git push -u origin main
+
+7 下载代码
+$ git pull
